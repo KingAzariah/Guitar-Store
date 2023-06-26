@@ -42,6 +42,7 @@ body {
     justify-content: space-evenly;
     flex-wrap: wrap;
     text-align: center;
+    width: 100%;
    }
    
    .service {
