@@ -19,7 +19,7 @@ body {
    }
    
    img {
-    height: 250px;
+    height: 100%;
     width: auto;
     border-radius: 6px;
    }
